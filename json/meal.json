@@ -1,0 +1,193 @@
+[
+    {
+        "id": "bf-001",
+        "category": "Breakfast",
+        "name": "Sopas",
+        "ingredients": [
+            "250 g elbow macaroni ",
+            "250 g chicken, cut into small pieces ",
+            "1 tablespoon cooking oil ",
+            "3 cloves garlic, minced ",
+            "1 medium onion, chopped ",
+            "1 medium carrot, diced or sliced ",
+            "1 cup cabbage, chopped ",
+            "1 cup evaporated milk ",
+            "6 cups water or chicken broth ",
+            "Salt and pepper to taste"
+        ],
+        "description": "Sopas is a popular Filipino comfort food made with macaroni pasta, chicken, vegetables, and a creamy milk-based broth. It is warm, filling, and especially enjoyable during rainy days or as a comforting breakfast or snack.",
+        "instructions": "Cook the chicken: Heat the cooking oil in a large pot. Sauté the garlic and onion until fragrant, then add the chicken and cook until lightly browned.\nAdd the broth: Pour in the water or chicken broth and bring it to a boil. Allow the chicken to cook thoroughly. \nCook the macaroni: Add the elbow macaroni and cook according to the package instructions. Stir occasionally to prevent the pasta from sticking together. \nAdd the vegetables: Add the carrots and cook for a few minutes. Then add the cabbage. \nMake it creamy: Pour in the evaporated milk and gently stir the soup. \nSeason and serve: Add salt and pepper according to your taste. Cook for another 2–3 minutes, then serve while hot."
+    },
+    {
+        "id": "bf-002",
+        "category": "Breakfast",
+        "name": "Champorado",
+        "ingredients": [
+            "1 cup glutinous rice ",
+            "4 cups water ",
+            "½ cup cocoa powder ",
+            "½ cup sugar ",
+            "1 cup evaporated milk or condensed milk ",
+            "Powdered milk or additional milk for serving(Optional) ",
+            "A small amount of condensed milk for extra sweetness(Optional)"
+        ],
+        "description": "Champorado is a popular Filipino chocolate rice porridge. It is made with glutinous rice, cocoa, sugar, and milk. This sweet and creamy dish is commonly served for breakfast or as a snack and can be enjoyed warm or cold.",
+        "instructions": "Wash the rice: Rinse the glutinous rice thoroughly with water. \nCook the rice: Place the rice and water in a pot. Bring to a boil, then reduce the heat and cook until the rice becomes soft. \nAdd the cocoa: Mix the cocoa powder with a small amount of water to form a smooth mixture. Add it to the cooked rice and stir well. \nAdd the sugar: Add the sugar and continue stirring until it completely dissolves.\nCook until thick: Allow the champorado to simmer for a few more minutes until it reaches a thick and creamy consistency. \nServe: Transfer the champorado to a bowl and pour milk on top. Add more sugar or condensed milk if desired."
+    },
+    {
+        "id": "bf-003",
+        "category": "Breakfast",
+        "name": "Lugaw",
+        "ingredients": [
+            "1 cup glutinous rice or regular rice ",
+            "6 cups water or chicken broth ",
+            "2 cloves garlic, minced ",
+            "1 small onion, chopped ",
+            "1 tablespoon cooking oil ",
+            "Salt and pepper to taste ",
+            "Boiled egg(Toppings) ",
+            "Fried garlic(Toppings) ",
+            "Green onions(Toppings) ",
+            "Calamansi(Toppings) ",
+            "Chicken pieces(Toppings)"
+        ],
+        "description": "Lugaw is a popular Filipino rice porridge made by slowly cooking rice in water or broth until it becomes soft and creamy. It is a warm and comforting dish, often enjoyed for breakfast, during rainy days, or when someone is feeling unwell.",
+        "instructions": "Prepare the ingredients: Wash the rice thoroughly with clean water. \nSauté the aromatics: Heat the cooking oil in a large pot. Sauté the garlic and onion until fragrant. \nAdd the rice: Add the washed rice and stir for about a minute. \nAdd the liquid: Pour in the water or chicken broth and bring it to a boil. \nCook the lugaw: Reduce the heat and allow the mixture to simmer. Stir occasionally to prevent the rice from sticking to the bottom of the pot. \nWait until creamy: Continue cooking until the rice becomes soft and the mixture reaches a thick, creamy consistency. Add more water if necessary. \nSeason and serve: Add salt and pepper according to your taste. Serve in a bowl and add your preferred toppings."
+    },
+    {
+        "id": "bf-004",
+        "category": "Breakfast",
+        "name": "Miki",
+        "ingredients": [
+            "250 g fresh miki noodles ",
+            "250 g chicken, cut into small pieces ",
+            "1 tablespoon cooking oil ",
+            "3 cloves garlic, minced ",
+            "1 small onion, chopped ",
+            "1 medium carrot, sliced ",
+            "1 cup cabbage, chopped ",
+            "5 cups chicken broth or water ",
+            "2 tablespoons soy sauce ",
+            "Salt and pepper to taste ",
+            "Green onions for garnish"
+        ],
+        "description": "Miki is a popular Filipino noodle dish made with soft, thick egg noodles served in a flavorful broth with chicken or pork and vegetables. It is a warm and filling meal that can be enjoyed for breakfast, lunch, or during rainy days.",
+        "instructions": "Prepare the chicken: Heat the cooking oil in a large pot and sauté the garlic and onion until fragrant. \nCook the chicken: Add the chicken and cook until it is lightly browned. \nAdd the broth: Pour in the chicken broth or water. Add the soy sauce and bring the mixture to a boil. \nCook the vegetables: Add the carrots and cook for a few minutes. Then, add the cabbage. \nAdd the noodles: Add the fresh miki noodles and cook according to the package instructions or until the noodles are soft. \nSeason the dish: Add salt and pepper according to your taste. Serve: Transfer the miki into a bowl and garnish with chopped green onions. "
+    },
+    {
+        "id": "bf-005",
+        "category": "Breakfast",
+        "name": "Bihon",
+        "ingredients": [
+            "250 g rice noodles (bihon) ",
+            "200 g chicken, cut into small pieces ",
+            "2 tablespoons cooking oil ",
+            "3 cloves garlic, minced ",
+            "1 small onion, chopped ",
+            "1 medium carrot, cut into thin strips ",
+            "1 cup cabbage, chopped ",
+            "½ cup green beans, sliced ",
+            "3 tablespoons soy sauce ",
+            "3 cups chicken broth or water ",
+            "Salt and pepper to taste ",
+            "Calamansi or lemon for serving"
+        ],
+        "description": "Pancit Bihon is a popular Filipino noodle dish made with thin rice noodles, meat, and a variety of vegetables. It is flavorful, filling, and commonly served during celebrations, family gatherings, or as an everyday meal.",
+        "instructions": "Soak the bihon: Place the rice noodles in water for about 10 minutes or until slightly softened. Drain and set aside. \nSauté the ingredients: Heat the cooking oil in a large pan or wok. Sauté the garlic and onion until fragrant. \nCook the chicken: Add the chicken and cook until it is lightly browned and fully cooked. \nAdd the vegetables: Add the carrots and green beans. Cook for a few minutes before adding the cabbage. \nAdd the seasoning: Pour in the chicken broth and soy sauce. Allow the mixture to simmer for a few minutes. \nCook the noodles: Add the soaked bihon noodles. Gently mix everything together until the noodles absorb the broth and become soft. \nSeason and serve: Add salt and pepper according to your taste. Serve on a plate with calamansi or lemon on the side."
+    },
+    {
+        "id": "bf-006",
+        "category": "Breakfast",
+        "name": "Tapsilog",
+        "ingredients": [
+            "250 g thinly sliced beef ",
+            "3 tablespoons soy sauce ",
+            "2 tablespoons brown sugar ",
+            "3 cloves garlic, minced ",
+            "1 tablespoon calamansi juice or lemon juice ",
+            "1 tablespoon cooking oil",
+            "Salt to taste",
+            "2 cups cooked rice ",
+            "1 tablespoon cooking oil "
+        ],
+        "description": "Tapsilog is a popular Filipino breakfast meal consisting of tapa (marinated beef), sinangag (garlic fried rice), and itlog (fried egg). Its name comes from combining the words tapa, sinangag, and itlog. It is a flavorful and filling meal commonly enjoyed for breakfast.",
+        "instructions": "In a bowl, combine the beef, soy sauce, brown sugar, minced garlic, and calamansi juice. Mix well and allow it to marinate for at least 30 minutes.\nHeat cooking oil in a pan. Add the marinated beef and cook until the meat is fully cooked and slightly caramelized. Set aside.\nHeat oil in another pan and sauté the minced garlic until golden and fragrant. Add the cooked rice and mix well. Season with a little salt and cook for several minutes.\nHeat a small amount of oil in a pan and fry the eggs according to your preferred level of doneness. Season with salt and pepper.\nPlace the garlic fried rice, beef tapa, and fried egg together on a plate."
+    },
+    {
+        "id": "bf-007",
+        "category": "Breakfast",
+        "name": "Hotsilog",
+        "ingredients": [
+            "4–6 hotdogs ",
+            "1 tablespoon cooking oil ",
+            "¼ cup water ",
+            "2 cups cooked rice ",
+            "3 cloves garlic, minced ",
+            "1 tablespoon cooking oil ",
+            "Salt to taste ",
+            "2 eggs ",
+            "1 tablespoon cooking oil ",
+            "Salt and pepper to taste"
+        ],
+        "description": "Hotsilog is a popular Filipino breakfast meal consisting of hotdogs, sinangag (garlic fried rice), and itlog (fried egg). Its name combines the words hotdog, sinangag, and itlog. It is a simple, flavorful, and filling meal that is especially popular among Filipino families.",
+        "instructions": "Heat a pan over medium heat and add a small amount of cooking oil. Add the hotdogs and cook until heated through and lightly browned. You may add a little water and cover the pan to help cook them evenly.\nHeat the oil in another pan and sauté the minced garlic until golden and fragrant. Add the cooked rice and mix well. Season with a little salt and cook for several minutes.\nHeat a small amount of oil in a pan. Crack the eggs into the pan and cook according to your preferred level of doneness. Season with salt and pepper.\nPlace the garlic fried rice, cooked hotdogs, and fried egg together on a plate."
+    },
+    {
+        "id": "bf-008",
+        "category": "Breakfast",
+        "name": "Longsilog",
+        "ingredients": [
+            "4–6 pieces longganisa ",
+            "½ cup water ",
+            "1 tablespoon cooking oil ",
+            "2 cups cooked rice ",
+            "3 cloves garlic, minced ",
+            "1 tablespoon cooking oil ",
+            "Salt to taste ",
+            "2 eggs ",
+            "1 tablespoon cooking oil ",
+            "Salt and pepper to taste"
+        ],
+        "description": "Longsilog is a popular Filipino breakfast meal consisting of longganisa (Filipino sausage), sinangag (garlic fried rice), and itlog (fried egg). Its name comes from combining the words longganisa, sinangag, and itlog. The sweet and savory flavor of longganisa makes this a delicious and filling breakfast meal.",
+        "instructions": "Place the longganisa and water in a pan over medium heat. Cover and allow the longganisa to cook until the water evaporates. Add a small amount of cooking oil and fry the longganisa until browned.\nHeat the cooking oil in a pan and sauté the minced garlic until golden and fragrant. Add the cooked rice and mix well. Season with a little salt and cook for several minutes.\nHeat a small amount of cooking oil in a pan. Crack the eggs into the pan and cook according to your preferred level of doneness. Season with salt and pepper.\nPlace the garlic fried rice, cooked longganisa, and fried egg together on a plate."
+    },
+    {
+        "id": "bf-009",
+        "category": "Breakfast",
+        "name": "Tosilog",
+        "ingredients": [
+            "250 g pork tocino ",
+            "½ cup water ",
+            "1 tablespoon cooking oil ",
+            "2 cups cooked rice ",
+            "3 cloves garlic, minced ",
+            "1 tablespoon cooking oil ",
+            "Salt to taste ",
+            "2 eggs ",
+            "1 tablespoon cooking oil ",
+            "Salt and pepper to taste"
+        ],
+        "description": "Tosilog is a popular Filipino breakfast meal consisting of tocino (sweet cured pork), sinangag (garlic fried rice), and itlog (fried egg). Its name comes from combining the words tocino, sinangag, and itlog. The sweet and savory tocino perfectly complements the flavorful garlic rice and egg.",
+        "instructions": "Place the tocino and water in a pan over medium heat. Cover the pan and allow the tocino to cook until the water has mostly evaporated. Add a small amount of cooking oil and continue cooking until the tocino is browned and slightly caramelized.\nHeat the cooking oil in a separate pan. Sauté the minced garlic until golden and fragrant. Add the cooked rice and mix well. Season with a little salt and cook for several minutes.\nHeat a small amount of cooking oil in a pan. Crack the eggs into the pan and cook according to your preferred level of doneness. Season with salt and pepper.\nArrange the garlic fried rice, cooked tocino, and fried egg together on a plate."
+    },
+    {
+        "id": "bf-010",
+        "category": "Breakfast",
+        "name": "Cornsilog",
+        "ingredients": [
+            "1 can corned beef ",
+            "1 small onion, sliced ",
+            "1 tablespoon cooking oil ",
+            "¼ cup water (optional) ",
+            "2 cups cooked rice ",
+            "3 cloves garlic, minced ",
+            "1 tablespoon cooking oil ",
+            "Salt to taste ",
+            "2 eggs ",
+            "1 tablespoon cooking oil ",
+            "Salt and pepper to taste"
+        ],
+        "description": "Cornsilog is a Filipino-style breakfast meal consisting of corned beef, sinangag (garlic fried rice), and itlog (fried egg). Its name combines the words corned beef, sinangag, and itlog. It is a savory, flavorful, and filling meal that is easy to prepare.",
+        "instructions": "Heat the cooking oil in a pan and sauté the sliced onion until soft. Add the corned beef and stir well. Add a small amount of water if desired and cook for approximately 5–7 minutes.\nHeat the oil in another pan and sauté the minced garlic until golden and fragrant. Add the cooked rice and mix well. Season with a little salt and cook for several minutes.\nHeat a small amount of cooking oil in a pan. Crack the eggs into the pan and cook according to your preferred level of doneness. Season with salt and pepper.\nPlace the garlic fried rice, corned beef, and fried egg together on a plate."
+    }
+]

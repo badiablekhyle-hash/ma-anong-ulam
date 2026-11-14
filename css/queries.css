@@ -1,0 +1,29 @@
+@media (min-width: 1300px) {
+    html {
+        font-size: 70%;
+    }
+
+    .marquee {
+        bottom: 10rem;
+    }
+}
+
+@media (min-width: 1600px) {
+    html {
+        font-size: 70%;
+    }
+
+    .marquee {
+        bottom: 18rem;
+    }
+}
+
+@media (min-width: 2000px) {
+    html {
+        font-size: 80%
+    }
+
+    .marquee {
+        bottom: 10rem;
+    }
+}

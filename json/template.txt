@@ -1,0 +1,19 @@
+{
+        "id": "",
+        "category": "",
+        "name": "",
+        "ingredients": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "description": "",
+        "instructions": ""
+    }

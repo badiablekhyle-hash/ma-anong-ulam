@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/queries.css">
+    <script src="javascript/meal.js"></script>
+    <script src="javascript/script.js" defer></script>
+    <title>Ma, Anong Ulam?</title>
+</head>
+
+<body>
+
+    <div class="main-container">
+        <div class="nav-container">
+            <button class="sb-btn" id="toggleBtn" aria-label="Toggle sidebar">></button>
+            <aside class="side-bar" id="sidebar">
+                <nav>
+                    <a href="#home" class="side-bar-button"><img src="images/MP-Logo/logo-min.png" alt=""
+                            class="logo" aria-label="Home"><img src="images/MP-Logo/logo-separate.png" alt="" class="logo2"></a>
+                    <a href="#features" class="side-bar-button"><img src="images/icons/package.svg" alt="">Features</a>
+                    <a href="#meal-recom" class="side-bar-button"><img src="images/icons/utensils (1).svg" alt="">Meal
+                        of the Day</a>
+                    <a href="#meal-planner" class="side-bar-button"><img src="images/icons/utensils-crossed (1).svg"
+                            alt="">Meal Planner</a>
+                    <a href="#chefs-corner" class="side-bar-button"><img src="images/icons/chef-hat (1).svg"
+                            alt="">Chef's Corner</a>
+                    <a href="#tutorial" class="side-bar-button"><img src="images/icons/Questionmark-icon.png" alt="">Planner Guide</a>
+                    <a href="about-us.html" class="side-bar-button"><img src="images/icons/information-circle-outline (1).svg" alt="">About
+                        us</a>
+
+                </nav>
+            </aside>
+        </div>
+
+
+        <div id="introScreen">
+            <div id="introContent">
+                <img src="assets/logo-icon.png" id="introIcon" alt="" />
+
+                <img src="assets/logo-text.png" id="introWordmark" alt="Ma, Anong Ulam?" />
+
+                <p id="introMessage">Anong ulam natin ngayon?</p>
+
+                <div class="intro-loader">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <div class="content-container">
+            <header>
+                <section id="home">
+                    <div class="home-container">
+                        <h1>Ma, anong ulam natin?</h1>
+                        <p>Our meal planner helps you organize your daily meals, manage kitchen ingredients, arrange
+                            recipes, <br> automatically generate shopping lists, and enjoy the comfort of home-cooked
+                            food
+                            <br>
+                            without the last-minute rush to the store. Save time, reduce food waste, and enjoy
+                            nutritious,
+                            home-cooked dishes every day.
+                        </p>
+                    </div>
+
+                    <img src="images/models/gab-model-nobg.png" alt="Gab" id="gab-model">
+
+                    <div class="marquee">
+
+                        <div class="marquee-track">
+                            <img src="images/671482879_1246663250980716_8072507730240624215_n.jpg" alt="">
+                            <img src="images/773810431_1673223607698286_1523891051158772427_n.jpg" alt="">
+                            <img src="images/776304292_1015489878203368_1179236426709399347_n.jpg" alt="">
+                            <img src="images/777620657_1409602067707795_221746138360872234_n.jpg" alt="">
+                            <img src="images/779178796_1409100677804858_7140507396291049059_n.jpg" alt="">
+                            <img src="images/779784209_2022724068411122_2237222310604468771_n.jpg" alt="">
+
+                            <img src="images/671482879_1246663250980716_8072507730240624215_n.jpg" alt="">
+                            <img src="images/773810431_1673223607698286_1523891051158772427_n.jpg" alt="">
+                            <img src="images/776304292_1015489878203368_1179236426709399347_n.jpg" alt="">
+                            <img src="images/777620657_1409602067707795_221746138360872234_n.jpg" alt="">
+                            <img src="images/779178796_1409100677804858_7140507396291049059_n.jpg" alt="">
+                            <img src="images/779784209_2022724068411122_2237222310604468771_n.jpg" alt="">
+                        </div>
+                    </div>
+                </section>
+
+            </header>
+
+            <main>
+                <section id="features">
+                    <h2>Features</h2>
+                    <div>
+                        <img src="images/features/card-recommendation.png" alt="">
+                        <div>
+                            <h3>Meal Recommendations</h3>
+                            <p>The Meal Recommendation feature speeds up daily meal planning by providing automated dish
+                                suggestions for Breakfast, Lunch, and Dinner. Designed to remove the hassle of deciding
+                                what to cook, the feature allows users to easily shuffle through alternative
+                                recommendations whenever they prefer different meal options.</p>
+                        </div>
+
+                        <div class="line"></div>
+
+                        <div>
+                            <h3>Meal Cards</h3>
+                            <p>Easily check dish details with compact recipe cards that have everything you need, <br> A
+                                step
+                                by step instructions, prep time, ingredients, and recipes. This makes choosing your next
+                                dish super easy!</p>
+                        </div>
+                        <img src="images/features/card-meal_card.png" alt="" class="switch">
+
+                        <div class="line"></div>
+
+                        <img src="images/features/card-chefs-corner.png" alt="">
+                        <div>
+                            <h3>Chef's Corner</h3>
+                            <p>Chef’s Corner is a feature that serves as a dedicated hub for your favorite meals,
+                                allowing instant access to your top recipe choices without having to shuffle through
+                                options. It features a built-in search tool so you can quickly locate specific dishes by
+                                name. Users have complete control over their curated collection, with the ability to
+                                easily add dishes via the meal card heart icon or remove them anytime to keep their
+                                personal list up to date</p>
+
+                        </div>
+                    </div>
+                    
+                </section>
+
+                <section id="meal-recom">
+                    <div class="mr-header">
+                        <h2>Meal of the Day</h2>
+                        <img id="refresh-recom-btn" src="images/icons/Refresh-btn.png" alt="Refresh recommendations" role="button" tabindex="0">
+                    </div>
+
+                    <div class="mr-main-container">
+
+                        <div class="mp-card recom-card" data-recom-category="Breakfast">
+                            <span class="card-source-badge">Recommended</span>
+                            <button type="button" class="favorite-btn" aria-label="Favorite">♡</button>
+                            <img src="/images/MP-images/img-bf.jpg" alt="">
+                            <div>
+                                <h4>Breakfast</h4>
+                                <p class="meal-name"></p>
+                                <p class="meal-desc"></p>
+                            </div>
+                        </div>
+
+                        <div class="mp-card recom-card" data-recom-category="Lunch">
+                            <span class="card-source-badge">Recommended</span>
+                            <button type="button" class="favorite-btn" aria-label="Favorite">♡</button>
+                            <img src="/images/MP-images/img-lunch.png" alt="">
+                            <div>
+                                <h4>Lunch</h4>
+                                <p class="meal-name"></p>
+                                <p class="meal-desc"></p>
+                            </div>
+                        </div>
+
+                        <div class="mp-card recom-card" data-recom-category="Dinner">
+                            <span class="card-source-badge">Recommended</span>
+                            <button type="button" class="favorite-btn" aria-label="Favorite">♡</button>
+                            <img src="/images/MP-images/img-dinner.png" alt="">
+                            <div>
+                                <h4>Dinner</h4>
+                                <p class="meal-name"></p>
+                                <p class="meal-desc"></p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="meal-planner">
+                    <h2>Meal Planner</h2>
+                    <p>Your plans for the day</p>
+
+                    <div class="mp-main-container">
+
+                        <div class="week-strip" id="weekStrip"></div>
+
+
+                        <div class="date-navigator">
+
+                            <div class="alignment-btn">
+
+                                <button id="prevDay" aria-label="Previous day">‹</button>
+
+                                <input type="date" id="dateInput">
+
+                                <button id="nextDay" aria-label="Next day">›</button>
+
+
+                            </div>
+
+                            <button id="add-button">Add a Plan</button>
+                        </div>
+
+
+
+                        <p id="empty-day-banner"></p>
+
+                        <div class="mp-core-container">
+                            <div class="mp-card" data-category="Breakfast">
+                                <button type="button" class="favorite-btn" aria-label="Favorite">♡</button>
+                                <img src="images/MP-images/img-bf.jpg" alt="">
+
+                                <div>
+                                    <h4>Breakfast</h4>
+                                    <p class="meal-name"></p>
+                                    <p class="meal-desc"></p>
+                                </div>
+                            </div>
+                            <div class="mp-card" data-category="Lunch">
+                                <button type="button" class="favorite-btn" aria-label="Favorite">♡</button>
+                                <img src="images/MP-images/img-lunch.png" alt="">
+
+                                <div>
+                                    <h4>Lunch</h4>
+                                    <p class="meal-name"></p>
+                                    <p class="meal-desc"></p>
+                                </div>
+                            </div>
+                            <div class="mp-card" data-category="Dinner">
+                                <button type="button" class="favorite-btn" aria-label="Favorite">♡</button>
+                                <img src="images/MP-images/img-dinner.png" alt="">
+
+                                <div>
+                                    <h4>Dinner</h4>
+                                    <p class="meal-name"></p>
+                                    <p class="meal-desc"></p>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+
+                        <section id="tutorial">
+                            <div class="steps">
+                                <h5 id="header-steps">How to use Meal Planner</h5>
+
+                                <div class="list-steps">
+
+                                    <ol>1. Click add a plan</ol>
+                                    <ol>2. Click the calendar button and select a date</ol>
+                                    <ol>3. Choose a meal category (Breakfast, Lunch, Dinner)</ol>
+                                    <ol>4. Enter the name of the meal</ol>
+                                    <ol>5. Type the ingredients in the box and the click the plus button.</ol>
+                                    <ol>6. Upload a photo of your meal</ol>
+                                    <ol>7. Add a description and/or instructions (optional)</ol>
+                                    <ol>8. Click Submit.</ol>
+                                    <ol>9. To find your meal plan, select the planned date on the calendar above the
+                                        cards.</ol>
+                                    <ol>10. You can click the meal card you created if you want to edit, delete, check
+                                        the
+                                        ingredients and check the instructions. </ol>
+                                    <ol>11. To add more meals, click "Add a plan" and repeat these steps. Note: You can
+                                        only
+                                        have one meal per category on a given date. <br>To add a new one , you must
+                                        remove the
+                                        existing meal.</ol>
+
+                                </div>
+
+
+                            </div>
+
+                        </section>
+
+
+                    </div>
+
+                    <div id="modal-backdrop">
+                        <div id="form-container">
+                            <form>
+                                <div class="form-grid">
+                                    <div class="form-flex">
+                                        <input type="date" id="meal-date">
+
+                                        <div class="float-group">
+                                            <select id="category-selector">
+                                                <option value="" disabled selected></option>
+                                                <option value="Breakfast">Breakfast</option>
+                                                <option value="Lunch">Lunch</option>
+                                                <option value="Dinner">Dinner</option>
+                                            </select>
+                                            <label for="category-selector">Meal Category</label>
+                                        </div>
+
+                                        <div class="float-group">
+                                            <input type="text" id="meal-name" placeholder=" " required>
+                                            <label for="meal-name">Meal Name</label>
+                                        </div>
+
+                                        <div class="float-group1">
+                                            <input type="text" placeholder=" " id="ingredient-input">
+                                            <label for="ingredient-input">Ingredients</label>
+                                            <button id="add-ingredient-btn" type="button">+</button>
+                                        </div>
+                                        <div id="ingredients-list"></div>
+                                    </div>
+
+                                    <div class="form-flex">
+                                        <div class="photo-upload-container">
+                                            <label for="meal-photo" class="photo-upload-box" id="photo-upload-box">
+                                                <span class="upload-placeholder-text">Tap to upload a photo</span>
+                                                <img id="photo-preview" style="display: none;">
+                                            </label>
+                                            <input type="file" id="meal-photo" accept="image/*" style="display: none;">
+                                        </div>
+
+                                        <div class="float-group">
+                                            <textarea placeholder=" " id="description"></textarea>
+                                            <label for="description">Description(Optional)</label>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </form>
+
+                            <form action="" id="instruction-form">
+                                <div class="float-group">
+                                    <textarea name="" placeholder=" " id="instructions"></textarea>
+                                    <label for="instructions">Instructions(optional)</label>
+                                </div>
+                            </form>
+                            <button class="form-x-button" id="x-button" type="button">x</button>
+                            <button class="submit-button" id="submit-button" type="button">Submit</button>
+
+
+
+                        </div>
+                    </div>
+
+                    <div id="expand-backdrop">
+                        <div id="expand-card">
+                            <button id="expand-close" type="button">×</button>
+
+                            <div class="flip-inner">
+                                <!-- FRONT -->
+                                <div class="flip-front">
+                                    <span class="expand-source-badge"></span>
+                                    <h3 class="expand-category"></h3>
+                                    <h2 class="expand-name"></h2>
+                                    <p class="expand-desc"></p>
+
+                                    <h4>Ingredients</h4>
+                                    <ol class="expand-ingredients"></ol>
+
+                                    <button class="flip-btn" type="button">See Instructions →</button>
+
+                                    <div class="expand-actions">
+                                        <button type="button" id="edit-meal-btn">Edit</button>
+                                        <button type="button" id="delete-meal-btn">Delete</button>
+                                        <button type="button" id="add-to-plan-from-expand-btn"
+                                            style="display: none;">Add to Plan</button>
+                                        <button type="button" id="add-to-plan-from-favorite-btn"
+                                            style="display: none;">Add to Plan</button>
+                                    </div>
+                                </div>
+
+                                <!-- BACK -->
+                                <div class="flip-back">
+                                    <h4>Instructions</h4>
+                                    <p class="expand-instructions"></p>
+
+                                    <button class="flip-btn" type="button">← Back</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="chefs-corner">
+                    <h2>Chef's Corner</h2>
+
+                    <div class="favorites-container">
+                        <div class="favorites-header">
+                            <h3>Favorite Meals</h3>
+                            <input type="text" id="favorites-search" placeholder="Search by name...">
+                            <button type="button" id="add-favorite-btn">+ Add Favorite</button>
+                        </div>
+
+                        <div class="favorites-grid" id="favorites-grid"></div>
+                    </div>
+
+                    <div id="favorite-modal-backdrop">
+                        <div id="favorite-form-container">
+                            <button class="form-x-button" id="favorite-x-button" type="button">x</button>
+
+                            <form id="favorite-form">
+                                <div class="float-group">
+                                    <select id="favorite-category" placeholder=" ">
+                                        <option value="" disabled selected></option>
+                                        <option value="Breakfast">Breakfast</option>
+                                        <option value="Lunch">Lunch</option>
+                                        <option value="Dinner">Dinner</option>
+                                    </select>
+                                    <label for="favorite-category">Category</label>
+                                </div>
+
+                                <div class="float-group">
+                                    <input type="text" id="favorite-name" placeholder=" " required>
+                                    <label for="favorite-name">Meal Name</label>
+                                </div>
+
+                                <div class="float-group1">
+                                    <input type="text" placeholder=" " id="favorite-ingredient-input">
+                                    <label for="favorite-ingredient-input">Ingredients</label>
+                                    <button id="favorite-add-ingredient-btn" type="button">+</button>
+                                </div>
+                                <div id="favorite-ingredients-list"></div>
+
+                                <div class="float-group">
+                                    <textarea placeholder=" " id="favorite-description"></textarea>
+                                    <label for="favorite-description">Description (Optional)</label>
+                                </div>
+
+                                <div class="float-group">
+                                    <textarea placeholder=" " id="favorite-instructions"></textarea>
+                                    <label for="favorite-instructions">Instructions (Optional)</label>
+                                </div>
+
+                                <label for="favorite-photo" class="photo-upload-box" id="favorite-photo-upload-box">
+                                    <span class="upload-placeholder-text">Tap to upload a photo</span>
+                                    <img id="favorite-photo-preview" style="display: none;">
+                                </label>
+                                <input type="file" id="favorite-photo" accept="image/*" style="display: none;">
+                            </form>
+
+                            <button class="submit-button" id="favorite-submit-button" type="button">Save
+                                Favorite</button>
+                        </div>
+                    </div>
+                </section>
+            </main>
+
+            <footer>
+
+            </footer>
+        </div>
+
+    </div>
+
+    <div id="toast"></div>
+    <div id="confirm-backdrop">
+        <div id="confirm-box">
+            <p id="confirm-message"></p>
+            <div class="confirm-actions">
+                <button type="button" id="confirm-cancel">Cancel</button>
+                <button type="button" id="confirm-ok">Delete</button>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
